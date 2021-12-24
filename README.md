@@ -6,7 +6,7 @@ made by Jaehyeok Choi
 
 ## What is the problem?
 
-![button](https://github.com/Choi-JaeHyeok-21500749/115312_namematch/blob/main/15312_pro.PNG)
+![button](https://github.com/Choi-JaeHyeok-21500749/15312_namematch/blob/main/15312_pro.PNG)
 
 ## What Algorithm should I use?
 
